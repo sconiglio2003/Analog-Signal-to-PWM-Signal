@@ -1,6 +1,9 @@
 Author: Samuel R. Coniglio
+
 Date: 5.21.2025
+
 IDE: Arduino, Nightly 
+
 MCU: Arduino Uno R3 ripoff from Amazon
 
 Introduction
