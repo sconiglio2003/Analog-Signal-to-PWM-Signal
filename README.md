@@ -4,6 +4,7 @@ IDE: Arduino, Nightly
 MCU: Arduino Uno R3 ripoff from Amazon
 
 Introduction
+
   The code simply takes an analog input from a potentiometer (which has a range from 0-1023), and then calculates the appropriate PWM signal (1-255) to send from the pin labeled "LEDpin" . 
   It may seem simple, but it was written completely from scratch by myself only. Using a micocontroller to interract with real life is what I'm all about. Microcontrollers control systems
   with reflexes that humans could never have, and fine tune important things on engines so that they work better than purely mechanical systems. This simple setup shows analog to digital conversion, 
